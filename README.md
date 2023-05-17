@@ -19,7 +19,7 @@ I created this theme because I couldn't find any built-in themes that suited my 
 This theme requires [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) installed in order to work. Don't worry, you can install it in your home folder with ease.
 
   * Follow the instructions on the Oh My Zsh page to install OMZ
-  * Download `raven.zsh-theme` or clone this repo
+  * Download [raven.zsh-theme](https://raw.githubusercontent.com/Peppernose145/omz-theme-Raven/main/raven.zsh-theme) or clone this repo
   * Copy `raven.zsh-theme` to `$HOME/.oh-my-zsh/custom/themes`
   * Edit `.zshrc` in your home folder
     - Find the line starting with `ZSH_THEME=`
